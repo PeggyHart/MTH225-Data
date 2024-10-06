@@ -1,0 +1,52 @@
+Type,Clean,Bench,Vert,Reach,Jump,STATUS,Graduated,FB,HGPA,Size,Rank,Perc,Tophalfclass,ACT,highact,State,FGPA,CGPA,ABGPA,Major
+F,220,225,27,97,124,Graduated,Yes,JV,3.06,192,143,74.48,No,22,No,NE,3.14,2.91,No,Psychology
+F,280,272,22,98.5,120.5,Graduated,Yes,Vars,3.51,26,7,26.92,Yes,22,No,NE,3.19,3.35,Yes,Education
+F,220,210,27,95.5,122.5,Withdrew,No,Vars,3.09,31,13,41.94,Yes,21,No,NE,2.62,2.19,No,Undeclared
+F,250,305,19,94,113,Probation,No,Vars,2.73,51,47,92.16,No,19,No,NE,1.65,1.58,No,Undeclared
+F,210,200,17.5,95.5,113,Probation,No,Vars,2.58,376,220,58.51,No,27,Yes,NE,1.43,1.11,No,Undeclared
+F,290,260,22.5,95,117.5,Graduated,Yes,Vars,3.26,51,29,56.86,No,19,No,NE,3.5,3.63,Yes,Education
+F,285,295,23,101,124,Graduated,Yes,Vars,3.77,266,3,14.11,Yes,26,Yes,NE,2.87,2.58,No,Sociology
+F,230,275,25,94,119,Graduated,Yes,Vars,4,31,3,9.68,Yes,28,Yes,NE,3.38,3.33,Yes,Accounting
+F,295,250,22,90.5,112.5,Graduated,Yes,Vars,3.96,311,9,2.89,Yes,29,Yes,NE,3.89,3.62,Yes,Social Sciences
+F,240,225,25.5,96.5,122,Graduated,Yes,Vars,3.85,22,3,13.64,Yes,24,Yes,NE,3.25,3.37,Yes,Social Sciences
+F,230,225,18.5,91,109.5,Suspended,No,JV,3.2,715,302,42.24,Yes,19,No,TX,1.34,1.88,No,Sociology
+F,220,185,21.5,98,119.5,Suspended,No,Vars,2.49,245,157,64.08,No,18,No,NE,1.28,0.94,No,Undeclared
+F,270,225,25.5,99,124.5,Probation,No,Vars,2.3,18,17,94.44,No,21,No,NE,2,2.16,No,Undeclared
+F,250,270,23.5,95.5,119,Withdrew,No,Vars,2.34,119,85,71.43,No,20,No,NE,1.74,2.01,No,Undeclared
+F,185,155,27.5,90.5,118,Withdrew,No,Vars,2.67,17,14,82.35,No,20,No,NE,2.5,2.43,No,Chemistry
+F,240,225,32.5,93,125.5,Graduated,Yes,Vars,3.5,162,78,48.15,Yes,18,No,NE,2.32,2.42,No,Physical Education
+F,275,250,18.5,98.5,117,Withdrew,No,Vars,3.43,340,39,11.47,Yes,19,No,NE,2.64,2.46,No,English
+F,280,275,22.5,97,119.5,Probation,No,Vars,2.7,30,27,90,No,23,No,NE,1.91,1.61,No,Undeclared
+F,235,235,26.5,93.5,120,Graduated,Yes,Vars,4,30,4,13.33,Yes,25,Yes,NE,3.32,3.46,Yes,Physics
+F,180,250,20.5,95.5,116,Graduated,Yes,Vars,3.6,52,19,36.54,Yes,18,No,NE,3.21,3.24,Yes,Physical Education
+F,210,266,20.5,97,121,Probation,No,Vars,3.35,141,30,21.28,Yes,26,Yes,CO,1.57,1.35,No,Undeclared
+F,280,230,26,90,116,Graduated,Yes,Vars,3.04,311,128,41.16,Yes,25,Yes,NE,3.19,3.58,Yes,Special Education
+F,235,240,25,93.5,118.5,Graduated,Yes,Vars,3.13,23,18,78.26,No,18,No,NE,3,3.19,Yes,Art
+F,270,210,27.5,96,123.5,Graduated,Yes,Vars,3.59,259,61,23.55,Yes,23,No,NE,3.09,3.36,Yes,Physical Education
+F,280,340,21.5,97,118.5,Withdrew,No,Vars,3.75,372,49,13.17,Yes,28,Yes,NE,3.86,3.6,Yes,Undeclared
+F,230,220,22.5,93,115.5,Probation,No,Vars,2.7,63,48,76.19,No,18,No,NE,1.36,1.67,No,Undeclared
+F,265,235,26.5,98,124.5,Graduated,Yes,Vars,3.73,23,4,17.39,Yes,24,Yes,NE,3.33,3.26,Yes,Business
+F,365,310,27,93.5,120.5,Graduated,Yes,Vars,3.98,405,32,7.9,Yes,25,Yes,NE,3.35,3.68,Yes,Biochemistry
+F,242,174,32.5,93,125.5,Graduated,Yes,Vars,2.84,311,130,41.8,Yes,23,No,NE,2.55,2.71,No,Mathematics
+F,273,236,25,92.5,117.5,Probation,No,Vars,3.5,21,14,66.67,No,19,No,NE,1.71,1.66,No,Undeclared
+F,250,230,28,94,122,Graduated,Yes,Vars,2.84,254,126,49.61,Yes,24,Yes,NE,2.61,2.66,No,Biology
+F,178,185,25,97,122,Graduated,Yes,Vars,3.83,19,7,36.84,Yes,20,No,NE,2.74,2.67,No,Computer Science
+F,241,218,28,92.5,120.5,Suspended,No,Vars,3.34,53,23,43.4,Yes,22,No,NE,1.74,1.8,No,Physical Education
+F,241,254,30,88.5,118.5,Withdrew,No,Vars,3.5,264,58,21.97,Yes,18,No,TX,2.76,2.16,No,Physical Education
+F,304,259,22.5,97,119.5,Graduated,Yes,JV,3.51,18,3,16.67,Yes,28,Yes,NE,2.98,3.3,Yes,Biology
+F,280,272,28,93,121,Graduated,Yes,Vars,3.4,31,14,45.16,Yes,19,No,NE,2.5,2.14,No,Physical Education
+F,269,207,18,95.5,113.5,Graduated,Yes,Vars,3.36,12,6,50,Yes,21,No,NE,1.74,2.58,No,Information Science
+F,285,235,29.5,97,88.5,Graduated,Yes,Vars,3.48,58,32,55.17,No,21,No,NE,2.99,2.52,No,Environmental Science
+F,240,260,24,93,93,Suspended,No,JV,3.3,27,10,37.04,Yes,27,Yes,NE,1.2,1.89,No,Sociology
+F,235,240,26.5,94,87.5,Withdrew,No,Vars,3.64,21,8,38.1,Yes,21,No,KS,2.48,2.75,No,Undeclared
+F,300,355,28,95.5,99.5,Graduated,Yes,Vars,3.99,53,4,7.55,Yes,28,Yes,NE,4,3.93,Yes,Biology
+F,280,195,25,93,98.5,Withdrew,No,Vars,3.96,90,9,10,Yes,24,Yes,KS,3.71,3.67,Yes,Undeclared
+F,260,275,32.5,91,123.5,Withdrew,No,JV,3.97,92,6,6.52,Yes,21,No,NE,3.32,3.32,Yes,Undeclared
+F,245,225,25.5,89,114.5,Graduated,Yes,Vars,3.44,17,10,58.82,No,19,No,NE,3.34,3.31,Yes,Natural Science
+T,285,300,21.5,93.5,115,Graduated,Yes,Vars,2.91,162,88,54.32,No,22,No,NE,2.94,2.85,No,Physical Education
+T,280,290,17.5,100,117.5,Graduated,Yes,JV,3.5,264,61,23.11,Yes,18,No,TX,2.03,2.05,No,Biology
+T,195,220,18.5,94.5,113,Probation,No,Vars,3.5,275,80,29.09,Yes,23,No,TX,2.72,1.82,No,Information Science
+T,295,220,27,90,117,Graduated,Yes,JV,3.1,23,16,69.57,No,21,No,NE,1.58,2.68,No,Education
+T,175,175,28.5,92,120.5,Withdrew,No,Vars,3.43,67,22,32.84,Yes,22,No,NE,2.58,2.58,No,Undeclared
+T,192,200,14,94.5,108.5,Withdrew,No,Vars,3.8,268,26,9.7,Yes,22,No,TX,2.32,1.85,No,Undeclared
+T,269,259,15.5,94,109.5,Withdrew,No,Vars,2.62,397,193,48.61,Yes,21,No,NE,2.48,2.04,No,Business
